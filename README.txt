@@ -1,1 +1,1 @@
-The AIM to doc the stuff in lay man terms!
+The aim to doc the stuff in lay man terms!
