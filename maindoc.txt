@@ -4,3 +4,7 @@ Required knowledge
         - What is ssl and certificate?
         - What is certificate signing?
         - What is slef signed certificate?
+
+Q: What is ssl?
+
+        - SSL provides the means of securly communicating between browser (client, customer) and server. (Company, Bank..). 
