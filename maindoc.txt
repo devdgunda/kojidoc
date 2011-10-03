@@ -1,4 +1,6 @@
 Introduction:
 
 Required knowledge
-        o what is ssl and certificate?
+        - What is ssl and certificate?
+        - What is certificate signing?
+        - What is slef signed certificate?
